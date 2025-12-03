@@ -55,7 +55,7 @@ This repository includes:
 3. **Ejecta complexity distributions** - Box plots comparing crater depths
 4. **Regression diagnostics** - Model fit visualizations and residual analysis
 
-👉 **[View Interactive Map](./interactive/crater_map.html)** 
+ **[View Interactive Map](https://jpoore.dev/marsmap/)** 
 
 ## Data Sources
 
@@ -91,7 +91,7 @@ ion is categorical; finer-grained morphological metrics may reveal stronger rela
 Quantitative Analysis Center, Wesleyan University
 
 Contact: jpoore@wesleyan.edu
-Website: jpoore.dev
+Portfolio: (https://jpoore.dev/projects)
 
 ## Citation
 
