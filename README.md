@@ -64,7 +64,7 @@ This project investigates the relationship between crater morphology and crater 
 - Full multivariate model combining polynomial terms for diameter and latitude with ejecta complexity and interaction effects (R² = 0.4431)
 
 ### Tools
-R (v4.0+), ggplot2, tidyverse
+R (v4.0+), ggplot2, descr
 
 ## Visualizations
 
